@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+
+title: Akka-HTTP Websocket Examples
+description: How to use Akka-HTTP to produce websocket applications
